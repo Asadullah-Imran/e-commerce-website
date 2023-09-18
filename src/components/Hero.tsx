@@ -9,7 +9,7 @@ const Hero = () => {
             src="/hero__1.webp"
             alt="hero image"
           />
-          <div className="absolute max-w-[470px] sm:ml-16 ml-8 top-[31%] sm:top-[40%] md:top-[40%] lg:top-[50%] -translate-y-[50%] sm:space-y-2 ">
+          <div className="absolute max-w-[470px] sm:ml-16 ml-8 top-[35%] sm:top-[40%] md:top-[40%] lg:top-[50%] -translate-y-[50%] sm:space-y-2 ">
             <p className="text-2xl hidden sm:block">100% original Dry Fruits</p>
             <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-4xl xl:text-5xl font-bold">
               Dried Fruits Best Quality
